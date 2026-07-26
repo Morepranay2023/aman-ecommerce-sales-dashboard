@@ -12,7 +12,7 @@ This is an interactive sales dashboard built with **[Power BI /  Excel]** to ana
 ## 🔍 Dashboard Features
 - **Sales by State:** Maharashtra leads, followed by MP, UP, and Delhi.
 - **Quantity by Category:** Clothing dominates (63%), followed by Electronics (21%) and Furniture (17%).
-- **Top Customers:** Mahavadi, Madhavi, and Shiva are the highest spenders.
+- **Top Customers:** Harivansh, Madhav, and Shiva are the highest spenders.
 - **Payment Mode:** Cash on Delivery (44%) is most popular, followed by UPI (21%).
 - **Profit by Sub-Category:** Printers and Bookcases generate the highest profit.
 
